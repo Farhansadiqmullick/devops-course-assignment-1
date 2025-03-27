@@ -1,0 +1,2 @@
+This repository contains the submission for Assignment 1 of Ostad 2nd Batch of DEVOps Course. 
+The topic of this assignment is to submit the assignment is "Version Control using Git and GitHub: Commit, Branching, Merging, and Pull Requests".
